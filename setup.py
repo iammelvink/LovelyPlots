@@ -66,7 +66,7 @@ setup(
         "Latex",
         "latex-figures",
     ],
-    url="https://github.com/killiansheriff/LovelyPlots",
+    url="https://github.com/iammelvink/LovelyPlots",
     install_requires=[
         "matplotlib",
     ],
